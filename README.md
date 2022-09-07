@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there! 👋
+This Github profile page is under construction. Meanwhile, have a look at my [resume here.](./Kush_Kothari_Resume.pdf)
 
 <!--
 **kkothari2001/kkothari2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
